@@ -120,7 +120,7 @@ class Lucas:
   4. Depois pode apagar o bloco "link provisório" logo abaixo.
 -->
 
-https://github.com/user-attachments/assets/COLE-AQUI-O-ID-DO-VIDEO
+https://github.com/user-attachments/assets/d2186ec7-863b-41ee-9d2b-e02e821557a5
 
 <!-- link provisório (funciona assim que você subir os arquivos): clique na Rice Shower para abrir o player -->
 <a href="assets/sweet-child.mp4">
