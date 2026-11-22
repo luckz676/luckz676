@@ -12,7 +12,7 @@
 <td align="left">
 
 <a href="https://github.com/luckz676">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=8DA2FF&width=470&height=90&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+%F0%9F%91%8B;Especializa%C3%A7%C3%A3o+em+Intelig%C3%AAncia+Artificial+%F0%9F%A4%96;Agentes+%C2%B7+Automa%C3%A7%C3%A3o+%C2%B7+Apps+com+IA+%E2%9A%A1;Time+Rice+Shower+at%C3%A9+o+fim+%F0%9F%92%99%F0%9F%8C%B9" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=8DA2FF&width=470&height=90&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+%F0%9F%91%8B;Especializa%C3%A7%C3%A3o+em+IA+%F0%9F%A4%96;Agentes+%C2%B7+Automa%C3%A7%C3%A3o+%C2%B7+Apps+com+IA+%E2%9A%A1" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -29,40 +29,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b7fe0,100:a78bfa&height=3&section=header" width="100%" alt="divisor"/>
 
-## 👋 Sobre mim
-
-```python
-class Lucas:
-    username = "luckz676"
-    especializacao = "Inteligência Artificial"
-    foco = ["agentes autônomos", "automação de workflows", "apps com IA"]
-    jogando = "Umamusume (time Rice Shower 💙🌹)"
-    musica = "Sweet Child o' Mine"
-    doce = "pavê"
-
-    def entrega(self):
-        return "código pronto, schema pronto, prompt pronto"
-```
-
-- 🧠 IA aplicada: do pipeline de dados ao produto rodando
-- 🛠️ Prefiro entregar coisa que funciona a explicar teoria
-- 🌱 Sempre estudando (cursos logo abaixo)
-- 📫 Contato: _edite aqui_ (e-mail / LinkedIn / Telegram)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b7fe0,100:a78bfa&height=3&section=header" width="100%" alt="divisor"/>
-
 ## 🧰 Stack
 
-<!-- Edite: troque/remova badges conforme o que você realmente usa. Catálogo: https://shields.io / https://simpleicons.org -->
+<!-- Edite: troque/remova badges conforme o que você realmente usa. Catálogo: https://shields.io / https://simpleicons.org
+     Cada badge está dentro de um <a> sem link, para o GitHub não torná-lo clicável. -->
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+<a><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
+<a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+<a><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
+<a><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/></a>
+<a><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+<a><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
 
 </div>
 
@@ -72,11 +51,11 @@ class Lucas:
 
 <!-- Uma linha por curso. Status: ✅ Concluído | 🔄 Em andamento | 📅 Planejado -->
 
-| 📘 Curso | 🏫 Plataforma | ⏱️ Carga | Status |
-|----------|---------------|:--------:|:------:|
-| _Nome do curso de IA_ | _Plataforma_ | _00h_ | ✅ |
-| _Nome do curso_ | _Plataforma_ | _00h_ | 🔄 |
-| _Nome do curso_ | _Plataforma_ | _00h_ | 📅 |
+| 📘 Curso | 🏫 Instituição | Status |
+|----------|----------------|:------:|
+| _Nome do curso de IA_ | _Instituição_ | ✅ |
+| _Nome do curso_ | _Instituição_ | 🔄 |
+| _Nome do curso_ | _Instituição_ | 📅 |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b7fe0,100:a78bfa&height=3&section=header" width="100%" alt="divisor"/>
 
@@ -110,55 +89,50 @@ class Lucas:
 
 <div align="center">
 
-### Sweet Child o' Mine — Guns N' Roses
+**Sweet Child o' Mine** · Guns N' Roses
 
 <!--
-  PLAYER TOCÁVEL (recomendado): o arquivo assets/sweet-child.mp4 já está pronto (6,4 MB).
+  PLAYER TOCÁVEL: o arquivo assets/sweet-child.mp4 já está pronto (6 MB, faixa baixa com forma de onda).
   1. Abra o editor do README em github.com/luckz676/luckz676 (lápis).
-  2. ARRASTE o assets/sweet-child.mp4 para dentro do texto, no lugar da linha COLE-AQUI.
+  2. ARRASTE o assets/sweet-child.mp4 para dentro do texto, aqui embaixo.
   3. O GitHub gera uma URL https://github.com/user-attachments/assets/... — deixe só essa URL numa linha sozinha.
-  4. Depois pode apagar o bloco "link provisório" logo abaixo.
 -->
 
-https://github.com/user-attachments/assets/d2186ec7-863b-41ee-9d2b-e02e821557a5
-
-<!-- link provisório (funciona assim que você subir os arquivos): clique na Rice Shower para abrir o player -->
-<a href="assets/sweet-child.mp4">
-  <img src="assets/rice-shower.gif" width="150" alt="Clique para ouvir"/>
-  <br/><sub>▶️ Clique na Rice Shower para ouvir</sub>
-</a>
+https://github.com/user-attachments/assets/3027211d-b4be-48aa-9d5e-be022dc1cd49
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b7fe0,100:a78bfa&height=3&section=header" width="100%" alt="divisor"/>
 
-## 🐴 Umamusume
+## Eu jogo Umamusume 🐴
 
 <table>
   <tr>
-    <td width="200" align="center">
-      <img src="assets/rice-shower.gif" width="180" alt="Rice Shower"/>
+    <td width="420" align="center">
+      <img src="assets/uma-alternando.svg" width="400" alt="Rice Shower e arte de Umamusume Pretty Derby"/>
     </td>
     <td>
       <h3>💙🌹 Minha Uma favorita: Rice Shower</h3>
-      Jogador de <b>Umamusume Pretty Derby</b>. A Rice Shower é a minha escolha, sem discussão.<br/><br/>
-      <img src="https://img.shields.io/badge/UMA-RICE%20SHOWER-5b7fe0?style=flat-square&logo=heart&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JOGO-UMAMUSUME-a78bfa?style=flat-square"/>
+      Jogador de <b>Umamusume Pretty Derby</b>. A Rice Shower é a minha favorita, GOAT 🐐
     </td>
   </tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b7fe0,100:a78bfa&height=3&section=header" width="100%" alt="divisor"/>
 
-## 🍮 Meu doce favorito: pavê
+## Meu doce favorito: pavê
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1500&color=A78BFA&center=true&vCenter=true&width=520&lines=Camada+de+bolacha...;Camada+de+creme...;Camada+de+chocolate...;E+repete.+Pav%C3%AA+%C3%A9+perfei%C3%A7%C3%A3o+%F0%9F%8D%AE" alt="Pavê"/>
-
-![pavê](https://img.shields.io/badge/DOCE%20FAVORITO-PAV%C3%8A-a78bfa?style=for-the-badge)
-
-</div>
+<table>
+  <tr>
+    <td>
+      <h3>Camadas que fazem tudo valer a pena</h3>
+      Pavê é a prova de que não precisa de forno nem de complicação para fazer uma sobremesa perfeita: bolacha macia, creme gelado e chocolate por cima. Cada garfada junta textura, doçura e aquele gosto de festa de família. Simples, generoso e impossível de comer só um pedaço. Doce favorito, sem concorrência.
+    </td>
+    <td width="360" align="center">
+      <img src="assets/pave.jpg" width="340" alt="Pavê de chocolate"/>
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b7fe0,100:a78bfa&height=3&section=header" width="100%" alt="divisor"/>
 
