@@ -91,8 +91,6 @@
 
 **Sweet Child o' Mine** · Guns N' Roses
 
-<sub>Trecho 0:30–1:00 · amostra de 30s</sub>
-
 <!--
   PLAYER TOCÁVEL: trecho 0:30-1:00 (30s, amostra) em assets/sweet-child.mp4 (faixa baixa com forma de onda).
   1. Abra o editor do README em github.com/luckz676/luckz676 (lápis).
